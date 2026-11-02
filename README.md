@@ -31,8 +31,8 @@ PHP Native, MySQL, Bootstrap 5, XAMPP
 (isi sesuai struktur di atas)
 
 ## Screenshot
-- Login: `screenshoot/01-login.png`
-- Dashboard: `screenshoot/02-dashboard.png`
-- Create: `screenshoot/03-create.png`
-- Update: `screenshoot/04-update.png`
-- Delete: `screenshoot/05-delete.png`
+- Login: `screenshoot/01-login.jpg`
+- Dashboard: `screenshoot/02-dashboard.jpg`
+- Create: `screenshoot/03-create.jpg`
+- Update: `screenshoot/04-update.jpg`
+- Delete: `screenshoot/05-delete.jpg`
